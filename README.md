@@ -1,2 +1,2 @@
 # CRUD con PHP y MySQL
-Consultas con la API msqli
+Consultas con la API mysqli
